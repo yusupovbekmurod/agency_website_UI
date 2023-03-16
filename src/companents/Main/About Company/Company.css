@@ -1,0 +1,40 @@
+.x-name {
+  width: 579px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  line-height: 140%;
+}
+
+.first-item {
+  padding-top: 120px;
+}
+
+.inf-camp {
+  text-align: center;
+  color: white;
+}
+
+.secondly-item {
+    display: grid;
+    row-gap: 50px;
+    grid-template-columns: 200px 200px;
+    padding-top: 100px;
+}
+
+.number-inf {
+  font-weight: 700;
+  font-size: 50px;
+  background: linear-gradient(
+    109.09deg,
+    rgba(0, 40, 248, 0.89) 0%,
+    #6911ad 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.repository {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+img {
+    user-select: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+    background-color: #060709;
+}
+
+::-webkit-scrollbar-thumb {
+    background:  #6C0F50;
+}

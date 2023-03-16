@@ -1,0 +1,49 @@
+@import "../../styles/Control.css";
+
+.navbar-style {
+  background: #131418;
+  backdrop-filter: blur(1px);
+  padding: 6px 0px;
+  display: block;
+  margin-bottom: 40px;
+}
+
+.navbar {
+  justify-content: space-between;
+}
+
+.list-control {
+    padding-top: 16px;
+}
+
+.list {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.more-info {
+  display: flex;
+}
+
+.tel-btn {
+  background: #6911ad;
+  color: white;
+  border-radius: 7px;
+  width: 168px;
+  text-align: center;
+  padding: 10px 0px;
+  height: 45px;
+}
+
+.information-navbar {
+  font-size: 17px;
+}
+
+.email {
+  font-size: 14px;
+}
+
+.line {
+  line-height: 7px;
+  margin-right: 25px;
+}

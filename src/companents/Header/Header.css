@@ -1,0 +1,50 @@
+@import '../../styles/Control.css';
+
+.header-background {
+    background: url("../../images/1.png");
+    height: 711.4px;
+    width: 100%;
+}
+
+.top-img {
+    position: absolute;
+    height: 540px;
+    right: 0px;
+    top: 80px;
+}
+
+.bottom-img {
+    height: 570px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.globus {
+    align-items: center;
+    position: relative;
+    bottom: 80px;
+}
+
+.canvas {
+  margin-left: 175px;
+}
+
+.abaut-us {
+    margin-top: 180px;
+}
+
+.font {
+    width: 470px;
+    margin-bottom: 30px;
+}
+
+.bio {
+    width: 500px;
+    color: white;
+    font-size: 18px;
+}
+
+.logo-portfolio {
+    position: relative;
+    top: 110px;
+}
