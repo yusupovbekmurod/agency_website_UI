@@ -5,3 +5,12 @@
   padding-bottom: 20px;
   display: block;
 }
+
+.catalogs-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.map-item {
+  
+}
